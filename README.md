@@ -1,16 +1,13 @@
-### Hi there 👋
+## Howdy, how're you doing?! 👋
 
-<!--
-**NeptuneXDB/NeptuneXDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a  href="https://github.com/NeptuneXDB">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=NeptuneXDB&show_icons=true&theme=whitesz&hide_title=true&hide_border=true&text_color=00A0B0&icon_color=ff5456" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="bottom">
+  <br>
+  - 🔍 <b>Focusing on web development</b><br>
+  - ⚒ <b>Founder of System Arts</b><br>
+  - ⚡ <b>Enhancing developer skills</b><br>
+  - 💎 <b>Passion for life</b><br>
+</p>
