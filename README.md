@@ -6,7 +6,7 @@
 
 <p align="bottom">
   <br>
-  - 🔍 <b>Focusing on web development</b><br>
+  - 🔍 <b>Focusing on web and mobile development (JS/TS, React, React Native)</b><br>
   - ⚒ <b>Founder & developer of Allure</b><br>
   - ⚡ <b>Enhancing developer skills</b><br>
   - 💎 <b>Passion for life</b><br>
