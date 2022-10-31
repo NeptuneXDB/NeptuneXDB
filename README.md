@@ -7,7 +7,7 @@
 <p align="bottom">
   <br>
   - 🔍 <b>Focusing on web development</b><br>
-  - ⚒ <b>Founder of System Arts</b><br>
+  - ⚒ <b>Founder of Allure</b><br>
   - ⚡ <b>Enhancing developer skills</b><br>
   - 💎 <b>Passion for life</b><br>
 </p>
