@@ -1,6 +1,6 @@
 ## Howdy, how're you doing?! 👋
 
-<a  href="https://github.com/NeptuneXDB">
+<a  href="https://github.com/thisisnext">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=thisisnext&show_icons=true&theme=whitesz&hide_title=true&hide_border=true&text_color=00A0B0&icon_color=ff5456" />
 </a>
 
