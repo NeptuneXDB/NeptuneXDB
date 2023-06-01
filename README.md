@@ -1,13 +1,12 @@
-## Howdy, how're you doing?! 👋
-
-<a  href="https://github.com/thisisnext">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=thisisnext&show_icons=true&theme=whitesz&hide_title=true&hide_border=true&text_color=00A0B0&icon_color=ff5456" />
-</a>
+## Hi, how're you doing? 👋
 
 <p align="bottom">
+  My name is Gabriel, also known by my online nickname "Next". I'm a 17-year-old web and mobile developer with a passion for continuous learning and improving my skills. Currently, I'm focusing on studying and enhancing     my abilities as a full-stack developer, with expertise in TypeScript and C#.
   <br>
-  - 🔍 <b>Focusing on web and mobile development (JS/TS, React, React Native)</b><br>
-  - ⚒ <b>Founder & developer of Allure</b><br>
-  - ⚡ <b>Enhancing developer skills</b><br>
-  - 💎 <b>Passion for life</b><br>
+
+  ---
+  
 </p>
+<a  href="https://github.com/thisisnext">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisisnext&show_icons=true&theme=transparent" />
+</a>
