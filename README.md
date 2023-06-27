@@ -1,7 +1,7 @@
 ## Hi, how're you doing? 👋
 
 <p align="bottom">
-  My name is Gabriel, also known by my online nickname "Next". I'm a 17-year-old web and mobile developer with a passion for continuous learning and improving my skills. Currently, I'm focusing on studying and enhancing     my abilities as a full-stack developer, with expertise in TypeScript and C#.
+  My name is Gabriel, also known by my online nickname "Next". I'm a 17-year-old software developer with a passion for continuous learning and improving my skills. Currently, I'm focusing on studying and enhancing     my abilities as a full-stack developer, with expertise in TypeScript and C#.
   <br>
 
   ---
